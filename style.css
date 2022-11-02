@@ -1,0 +1,9 @@
+.container{
+    height: auto;
+    padding: 10px;
+    background-color: #1F2937;
+    display:flex;
+}
+.container .headerItem{
+    flex: 1;
+}
